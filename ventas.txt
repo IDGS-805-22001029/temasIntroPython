@@ -1,0 +1,6 @@
+Nombre: Juan
+Vendido: 21.6
+Nombre: Pedro
+Vendido: 91.8
+
+Total de ventas: $113.40
